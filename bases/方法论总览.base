@@ -1,0 +1,88 @@
+filters:
+  and:
+    - file.inFolder("方法论")
+    - 'file.ext == "md"'
+
+properties:
+  file.name:
+    displayName: 标题
+  note.type:
+    displayName: 类型
+  note.author:
+    displayName: 作者
+  note.date:
+    displayName: 日期
+  note.tags:
+    displayName: 标签
+  note.rating:
+    displayName: 评分
+
+views:
+  - type: table
+    name: 全部
+    sort:
+      - property: date
+        direction: DESC
+    order:
+      - file.name
+      - type
+      - author
+      - date
+      - tags
+      - rating
+
+  - type: table
+    name: 按类型
+    groupBy:
+      property: type
+      direction: ASC
+    sort:
+      - property: date
+        direction: DESC
+    order:
+      - file.name
+      - author
+      - date
+      - tags
+      - rating
+
+  - type: table
+    name: 按作者
+    groupBy:
+      property: author
+      direction: ASC
+    sort:
+      - property: date
+        direction: DESC
+    order:
+      - file.name
+      - date
+      - tags
+      - rating
+
+  - type: table
+    name: 高评分
+    filters:
+      and:
+        - 'rating >= 4'
+    sort:
+      - property: rating
+        direction: DESC
+    order:
+      - file.name
+      - type
+      - author
+      - date
+      - rating
+
+  - type: table
+    name: 最近入库
+    limit: 20
+    sort:
+      - property: file.ctime
+        direction: DESC
+    order:
+      - file.name
+      - type
+      - author
+      - file.ctime
