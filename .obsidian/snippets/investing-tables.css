@@ -1,0 +1,70 @@
+/* Research tables: visual-only styling for reading view and Live Preview. */
+.markdown-rendered table,
+.markdown-source-view.mod-cm6 .cm-table-widget table {
+  width: 100%;
+  margin: 1.25rem 0;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  font-size: 0.92em;
+  line-height: 1.55;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 4%);
+}
+
+.markdown-rendered table th,
+.markdown-source-view.mod-cm6 .cm-table-widget table th {
+  padding: 0.65rem 0.8rem;
+  border: 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  font-size: 0.88em;
+  font-weight: 650;
+  letter-spacing: 0.01em;
+  text-align: left;
+}
+
+.markdown-rendered table td,
+.markdown-source-view.mod-cm6 .cm-table-widget table td {
+  padding: 0.58rem 0.8rem;
+  border: 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+  vertical-align: top;
+}
+
+.markdown-rendered table tr:nth-child(even) td,
+.markdown-source-view.mod-cm6 .cm-table-widget table tr:nth-child(even) td {
+  background: var(--background-secondary-alt);
+}
+
+.markdown-rendered table tr:hover td,
+.markdown-source-view.mod-cm6 .cm-table-widget table tr:hover td {
+  background: var(--background-modifier-hover);
+}
+
+.markdown-rendered table tr:last-child td,
+.markdown-source-view.mod-cm6 .cm-table-widget table tr:last-child td {
+  border-bottom: 0;
+}
+
+/* Preserve usability for wide historical-comparison tables. */
+.markdown-rendered .table-wrapper,
+.markdown-source-view.mod-cm6 .cm-table-widget {
+  overflow-x: auto;
+}
+
+@media (max-width: 700px) {
+  .markdown-rendered table,
+  .markdown-source-view.mod-cm6 .cm-table-widget table {
+    font-size: 0.84em;
+  }
+
+  .markdown-rendered table th,
+  .markdown-rendered table td,
+  .markdown-source-view.mod-cm6 .cm-table-widget table th,
+  .markdown-source-view.mod-cm6 .cm-table-widget table td {
+    padding: 0.5rem 0.6rem;
+  }
+}

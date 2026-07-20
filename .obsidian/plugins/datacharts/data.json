@@ -1,0 +1,19 @@
+{
+  "canvasHeight": 320,
+  "canvasWidth": 100,
+  "EborderWidth": 2,
+  "pointRadius": 0,
+  "useThemeColors": true,
+  "legendStatus": false,
+  "xScalesType": "linear",
+  "yScalesType": "linear",
+  "canvasPadding": 12,
+  "canvasRadius": 12,
+  "marginY": 10,
+  "showBorder": true,
+  "transparentBackground": false,
+  "backgroundColor": "var(--background-secondary)",
+  "titleStatus": false,
+  "zoomStatus": false,
+  "saveImagesPath": "Attachments/Charts/"
+}
