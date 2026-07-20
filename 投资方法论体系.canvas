@@ -1,0 +1,750 @@
+{
+ "nodes": [
+  {
+   "id": "d5d3db1765287eef",
+   "type": "text",
+   "x": 0,
+   "y": -260,
+   "width": 1400,
+   "height": 150,
+   "text": "# 投资方法论体系\n\n按决策流程五环节组织:概念节点(小卡)是枢纽,文章节点(大卡)是代表作;全部文章可从概念页反向链接抵达。"
+  },
+  {
+   "id": "3d66313de70b7a5d",
+   "type": "group",
+   "x": 0,
+   "y": 0,
+   "width": 860,
+   "height": 960,
+   "label": "① 认知与体系",
+   "color": "5"
+  },
+  {
+   "id": "c9dc099dd286c159",
+   "type": "file",
+   "file": "concepts/认知.md",
+   "x": 30,
+   "y": 60,
+   "width": 390,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "d6f1ad13adb3d17b",
+   "type": "file",
+   "file": "concepts/第二层次思维.md",
+   "x": 440,
+   "y": 60,
+   "width": 390,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "888e709220e248e3",
+   "type": "file",
+   "file": "concepts/终局思维.md",
+   "x": 30,
+   "y": 170,
+   "width": 390,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "0845e6f5426a3224",
+   "type": "file",
+   "file": "concepts/投资体系.md",
+   "x": 440,
+   "y": 170,
+   "width": 390,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "11294241765ce047",
+   "type": "file",
+   "file": "concepts/基金经理.md",
+   "x": 30,
+   "y": 280,
+   "width": 390,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "9f6f924720494378",
+   "type": "file",
+   "file": "方法论/张坤-选择一种投资体系接受它的局限性.md",
+   "x": 30,
+   "y": 420,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "6055ade584ffa2da",
+   "type": "file",
+   "file": "方法论/如何分辨与做好基金-访谈103位基金经理的思考.md",
+   "x": 440,
+   "y": 420,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "17bfa87550c11ba9",
+   "type": "file",
+   "file": "方法论/怎么区分基金经理在赌博还是在交易.md",
+   "x": 30,
+   "y": 590,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "9f4a67d38aad0fb2",
+   "type": "file",
+   "file": "方法论/麦刚为什么比中本聪更懂比特币B.md",
+   "x": 440,
+   "y": 590,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "171bc5b7cb7e6c1d",
+   "type": "file",
+   "file": "方法论/躺平投资方法论-硅谷王川.md",
+   "x": 30,
+   "y": 760,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "d2aab24e148d8b11",
+   "type": "file",
+   "file": "方法论/伟志思考-成年人的世界里不只有白与黑以及为何要写《投资中最困难的事》系列.md",
+   "x": 440,
+   "y": 760,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "27ea00819e45b183",
+   "type": "group",
+   "x": 980,
+   "y": 0,
+   "width": 860,
+   "height": 1350,
+   "label": "② 估值与选股",
+   "color": "4"
+  },
+  {
+   "id": "b2d405a278073306",
+   "type": "file",
+   "file": "concepts/估值.md",
+   "x": 1010,
+   "y": 60,
+   "width": 390,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "7fa9dc0c2938437e",
+   "type": "file",
+   "file": "concepts/价值投资.md",
+   "x": 1420,
+   "y": 60,
+   "width": 390,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "4e1db54045bbc6ff",
+   "type": "file",
+   "file": "concepts/成长股.md",
+   "x": 1010,
+   "y": 170,
+   "width": 390,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "c7850569ffe5dacd",
+   "type": "file",
+   "file": "concepts/护城河.md",
+   "x": 1420,
+   "y": 170,
+   "width": 390,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "5141807974c81002",
+   "type": "file",
+   "file": "concepts/价值陷阱.md",
+   "x": 1010,
+   "y": 280,
+   "width": 390,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "a45d08021c3342ef",
+   "type": "file",
+   "file": "concepts/公司战略.md",
+   "x": 1420,
+   "y": 280,
+   "width": 390,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "ea32093950a41ede",
+   "type": "file",
+   "file": "concepts/AI.md",
+   "x": 1010,
+   "y": 390,
+   "width": 390,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "3e86ae11db03decb",
+   "type": "file",
+   "file": "concepts/AI算力.md",
+   "x": 1420,
+   "y": 390,
+   "width": 390,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "2b7132c99a36b1b0",
+   "type": "file",
+   "file": "concepts/比特币.md",
+   "x": 1010,
+   "y": 500,
+   "width": 390,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "cf4ee513fd8bb16d",
+   "type": "file",
+   "file": "方法论/如何正确地给股票估值-股票的超长信用债本质.md",
+   "x": 1010,
+   "y": 640,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "6f93768364750df9",
+   "type": "file",
+   "file": "方法论/巴菲特的护城河-读书笔记.md",
+   "x": 1420,
+   "y": 640,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "f592121853245c6b",
+   "type": "file",
+   "file": "方法论/仁桥月度观点-价值陷阱的两种形式.md",
+   "x": 1010,
+   "y": 810,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "3136fda0f7ecd02c",
+   "type": "file",
+   "file": "方法论/投资人当前最重要的事.md",
+   "x": 1420,
+   "y": 810,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "95e9572ada5a5cc2",
+   "type": "file",
+   "file": "方法论/AI大模型CEO战略思考_百度掉队.md",
+   "x": 1010,
+   "y": 980,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "893f364eb419a66f",
+   "type": "file",
+   "file": "方法论/大B端显卡在采购什么以及为什么.md",
+   "x": 1420,
+   "y": 980,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "75366bce274fb51f",
+   "type": "file",
+   "file": "方法论/海外大模型中转站的竞争终局.md",
+   "x": 1010,
+   "y": 1150,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "26359366007bcb66",
+   "type": "group",
+   "x": 1960,
+   "y": 0,
+   "width": 860,
+   "height": 1570,
+   "label": "③ 周期与择时",
+   "color": "3"
+  },
+  {
+   "id": "6839f7c7bd3531fa",
+   "type": "file",
+   "file": "concepts/牛熊周期.md",
+   "x": 1990,
+   "y": 60,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "7f29ae4b82af3fcc",
+   "type": "file",
+   "file": "concepts/股市四季时钟.md",
+   "x": 2400,
+   "y": 60,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "b60679b7da6f30c5",
+   "type": "file",
+   "file": "concepts/市场底部.md",
+   "x": 1990,
+   "y": 170,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "196033f50ed1b62c",
+   "type": "file",
+   "file": "concepts/政策底.md",
+   "x": 2400,
+   "y": 170,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "3acc572484c7aab9",
+   "type": "file",
+   "file": "concepts/政策周期.md",
+   "x": 1990,
+   "y": 280,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "b11639cdb9f9e266",
+   "type": "file",
+   "file": "concepts/市场情绪.md",
+   "x": 2400,
+   "y": 280,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "fe4f50a9ece43955",
+   "type": "file",
+   "file": "concepts/一致预期.md",
+   "x": 1990,
+   "y": 390,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "dafb178d942e9638",
+   "type": "file",
+   "file": "concepts/景气行情.md",
+   "x": 2400,
+   "y": 390,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "0c4916c730506b67",
+   "type": "file",
+   "file": "concepts/泡沫.md",
+   "x": 1990,
+   "y": 500,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "d2d1ced584a8ce73",
+   "type": "file",
+   "file": "concepts/宏观货币.md",
+   "x": 2400,
+   "y": 500,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "d7256ffeec5f5109",
+   "type": "file",
+   "file": "concepts/黄金.md",
+   "x": 1990,
+   "y": 610,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "4c36aa900202a523",
+   "type": "file",
+   "file": "concepts/资产负债表衰退.md",
+   "x": 2400,
+   "y": 610,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "6212491e0974ee0e",
+   "type": "file",
+   "file": "concepts/新型牛市.md",
+   "x": 1990,
+   "y": 720,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "2ee3d3830659a5f8",
+   "type": "file",
+   "file": "concepts/抱团股.md",
+   "x": 2400,
+   "y": 720,
+   "width": 390,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "9a06536acd7ff83f",
+   "type": "file",
+   "file": "方法论/霍华德马克斯-再议泡沫-On-Bubble-Watch.md",
+   "x": 1990,
+   "y": 860,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "4a14fdf619b29e23",
+   "type": "file",
+   "file": "方法论/海通策略-历史复盘-政策底市场底业绩底.md",
+   "x": 2400,
+   "y": 860,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "039d1d5e230efbcf",
+   "type": "file",
+   "file": "方法论/国信证券-二十年六大景气行情启示-本轮AI何时见顶.md",
+   "x": 1990,
+   "y": 1030,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "b028cfe02db86481",
+   "type": "file",
+   "file": "方法论/仁桥月度观点-过于一致的预期.md",
+   "x": 2400,
+   "y": 1030,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "3bb35ed57aeab645",
+   "type": "file",
+   "file": "方法论/黄金博弈_中国购金与美债的终极对决.md",
+   "x": 1990,
+   "y": 1200,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "781aa14ba7c3a5f8",
+   "type": "file",
+   "file": "方法论/中欧瑞博投资哲学-行稳致远尊重市场.md",
+   "x": 2400,
+   "y": 1200,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "788903902938fd12",
+   "type": "file",
+   "file": "方法论/伟志思考-避免资产负债表衰退的关键是什么？莫在低谷转身而去！.md",
+   "x": 1990,
+   "y": 1370,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "ba6f51c972a1c7b1",
+   "type": "group",
+   "x": 2940,
+   "y": 0,
+   "width": 860,
+   "height": 1070,
+   "label": "④ 交易执行",
+   "color": "2"
+  },
+  {
+   "id": "992d2d0daea0a720",
+   "type": "file",
+   "file": "concepts/交易心理.md",
+   "x": 2970,
+   "y": 60,
+   "width": 390,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "cb2c2b8624cacb0d",
+   "type": "file",
+   "file": "concepts/完美与正确.md",
+   "x": 3380,
+   "y": 60,
+   "width": 390,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "3583d5403e1cb4eb",
+   "type": "file",
+   "file": "concepts/仓位管理.md",
+   "x": 2970,
+   "y": 170,
+   "width": 390,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "ebcb74855dff3c51",
+   "type": "file",
+   "file": "concepts/杠杆.md",
+   "x": 3380,
+   "y": 170,
+   "width": 390,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "2682b9df2d7c01e7",
+   "type": "file",
+   "file": "concepts/做空.md",
+   "x": 2970,
+   "y": 280,
+   "width": 390,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "2539167ae2448bb1",
+   "type": "file",
+   "file": "concepts/策略适配.md",
+   "x": 3380,
+   "y": 280,
+   "width": 390,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "bdfd88c3f452e510",
+   "type": "file",
+   "file": "concepts/长期持有.md",
+   "x": 2970,
+   "y": 390,
+   "width": 390,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "d9ed55b8572c1817",
+   "type": "file",
+   "file": "concepts/逆向投资.md",
+   "x": 3380,
+   "y": 390,
+   "width": 390,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "eb02c865b329c400",
+   "type": "file",
+   "file": "方法论/巴菲特为什么不做空.md",
+   "x": 2970,
+   "y": 530,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "9ee28dd08dd09b27",
+   "type": "file",
+   "file": "方法论/交易性机会-极度悲观超跌反弹.md",
+   "x": 3380,
+   "y": 530,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "016027bb4bfe17eb",
+   "type": "file",
+   "file": "方法论/交易性机会-风口稀缺型概念炒作.md",
+   "x": 2970,
+   "y": 700,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "cf82430341de41df",
+   "type": "file",
+   "file": "方法论/吴伟志访谈-低估值策略渐入高潮-以买公司心态投资成长股.md",
+   "x": 3380,
+   "y": 700,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "c6dac73a81e4af1a",
+   "type": "file",
+   "file": "方法论/伟志思考-切忌追求完美（投资中最难的事之十三）.md",
+   "x": 2970,
+   "y": 870,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "e65f36ee94bc75c5",
+   "type": "file",
+   "file": "方法论/伟志思考-什么情况下应该买入不止损？眼下到了这一阶段没有？.md",
+   "x": 3380,
+   "y": 870,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "5d3a6bf09e119d46",
+   "type": "group",
+   "x": 3920,
+   "y": 0,
+   "width": 860,
+   "height": 600,
+   "label": "⑤ 复盘与案例库",
+   "color": "6"
+  },
+  {
+   "id": "5b92373941d22805",
+   "type": "file",
+   "file": "方法论/2005年A股最绝望的100天-股改熊市复盘.md",
+   "x": 3950,
+   "y": 60,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "2cadbd088a2d1e0c",
+   "type": "file",
+   "file": "方法论/韩国股市暴跌-曹多鱼观点总结.md",
+   "x": 4360,
+   "y": 60,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "2aa2d4f35776392a",
+   "type": "file",
+   "file": "方法论/伟志思考-罗.普莱斯70年代投资带来的启示.md",
+   "x": 3950,
+   "y": 230,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "b88c5a73bf196e0d",
+   "type": "file",
+   "file": "方法论/伟志思考-专栏索引.md",
+   "x": 4360,
+   "y": 230,
+   "width": 390,
+   "height": 150
+  },
+  {
+   "id": "fd929bcfa3f2f6e1",
+   "type": "file",
+   "file": "方法论/伟志思考-投资中最困难的事系列索引.md",
+   "x": 3950,
+   "y": 400,
+   "width": 390,
+   "height": 150
+  }
+ ],
+ "edges": [
+  {
+   "id": "7aa23492064a9e2a",
+   "fromNode": "3d66313de70b7a5d",
+   "fromSide": "right",
+   "toNode": "27ea00819e45b183",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "好公司好价格"
+  },
+  {
+   "id": "cd3dc8b6cffb41e4",
+   "fromNode": "27ea00819e45b183",
+   "fromSide": "right",
+   "toNode": "26359366007bcb66",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "什么季节做什么事"
+  },
+  {
+   "id": "68a9e49bbc88c020",
+   "fromNode": "26359366007bcb66",
+   "fromSide": "right",
+   "toNode": "ba6f51c972a1c7b1",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "纪律与心法"
+  },
+  {
+   "id": "7ed21b04c0dcde1c",
+   "fromNode": "ba6f51c972a1c7b1",
+   "fromSide": "right",
+   "toNode": "5d3a6bf09e119d46",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "错误是养分"
+  },
+  {
+   "id": "ad2a3bc401b4954a",
+   "fromNode": "5d3a6bf09e119d46",
+   "fromSide": "top",
+   "toNode": "3d66313de70b7a5d",
+   "toSide": "top",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "复盘反哺认知"
+  }
+ ]
+}
