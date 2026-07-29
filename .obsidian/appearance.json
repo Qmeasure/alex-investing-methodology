@@ -1,1 +1,6 @@
-{}
+{
+  "translucency": true,
+  "enabledCssSnippets": [
+    "investing-tables"
+  ]
+}

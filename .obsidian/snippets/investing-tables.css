@@ -49,12 +49,6 @@
   border-bottom: 0;
 }
 
-/* Preserve usability for wide historical-comparison tables. */
-.markdown-rendered .table-wrapper,
-.markdown-source-view.mod-cm6 .cm-table-widget {
-  overflow-x: auto;
-}
-
 @media (max-width: 700px) {
   .markdown-rendered table,
   .markdown-source-view.mod-cm6 .cm-table-widget table {

@@ -1,5 +1,5 @@
 {
-  "canvasHeight": 320,
+  "canvasHeight": 360,
   "canvasWidth": 100,
   "EborderWidth": 2,
   "pointRadius": 0,
@@ -7,13 +7,13 @@
   "legendStatus": false,
   "xScalesType": "linear",
   "yScalesType": "linear",
-  "canvasPadding": 12,
-  "canvasRadius": 12,
-  "marginY": 10,
+  "canvasPadding": 16,
+  "canvasRadius": 14,
+  "marginY": 16,
   "showBorder": true,
   "transparentBackground": false,
   "backgroundColor": "var(--background-secondary)",
   "titleStatus": false,
-  "zoomStatus": false,
+  "zoomStatus": true,
   "saveImagesPath": "Attachments/Charts/"
 }
