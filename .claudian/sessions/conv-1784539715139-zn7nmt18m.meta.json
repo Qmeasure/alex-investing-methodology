@@ -4,8 +4,8 @@
   "title": "你好",
   "titleGenerationStatus": "failed",
   "createdAt": 1784539715145,
-  "updatedAt": 1784718259236,
-  "lastResponseAt": 1784718259236,
+  "updatedAt": 1785408026534,
+  "lastResponseAt": 1785408026534,
   "sessionId": "97cb339b-27bb-4f7d-8b4c-897befbd720d",
   "selectedModel": "opus",
   "providerState": {
@@ -14,11 +14,11 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 7548,
-    "cacheReadInputTokens": 151471,
+    "cacheCreationInputTokens": 9252,
+    "cacheReadInputTokens": 164541,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 159021,
-    "percentage": 16
+    "contextTokens": 173795,
+    "percentage": 17
   }
 }
