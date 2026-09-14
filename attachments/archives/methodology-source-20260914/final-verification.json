@@ -1,0 +1,14 @@
+{
+  "archive_original_hashes": 140,
+  "new_broken_links": 0,
+  "case_record_anchors": 138,
+  "case_objects": 224,
+  "historical_cards": 138,
+  "anonymous_new_notes": true,
+  "canvas_same_layout_and_edges": true,
+  "canvas_serialization": "original compact format preserved",
+  "new_note_yamls": "six fields checked",
+  "data_table": "31 rows; Q1 and Q2 each 100.00%; original table preserved",
+  "review": "independent review corrections closed",
+  "rendering": "not visually inspected in Obsidian; Markdown and Canvas structures checked"
+}

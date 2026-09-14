@@ -1,0 +1,16 @@
+{
+  "archive_crc": "pass",
+  "originals_count": 140,
+  "original_sha256_matches": 140,
+  "records": 138,
+  "case_objects": 224,
+  "market_context_cards": 138,
+  "market_series_per_card": 3,
+  "known_written_dates_used": 83,
+  "preserved_other_article_bodies": 13,
+  "canvas_retargets": 7,
+  "canvas_edges_preserved": true,
+  "old_files_remaining": 0,
+  "new_note_yaml_and_links": "pass",
+  "snapshot_commit": "d46c54c"
+}

@@ -1,0 +1,23 @@
+{
+  "sse": {
+    "rows": 3813,
+    "first": "2011-01-04",
+    "last": "2026-09-11",
+    "duplicates": 0,
+    "invalid_ohlc": 0
+  },
+  "sse50": {
+    "rows": 3813,
+    "first": "2011-01-04",
+    "last": "2026-09-11",
+    "duplicates": 0,
+    "invalid_ohlc": 0
+  },
+  "chinext": {
+    "rows": 3814,
+    "first": "2011-01-04",
+    "last": "2026-09-14",
+    "duplicates": 0,
+    "invalid_ohlc": 0
+  }
+}
