@@ -2,6 +2,8 @@
 
 本目录是 Obsidian vault + git 仓库。任何批量修改前先 `git add -A && git commit` 打快照。
 
+根目录 `CLAUDE.md` 是本文件的同步副本(逐字一致):改动本文件后必须同步更新 `CLAUDE.md`。
+
 ## 目录归属
 
 | 内容 | 去处 |
