@@ -13,6 +13,7 @@
 | 概念枢纽页 | `concepts/` |
 | 公司研报、估值模型产出(equity-research 等 skill) | `research/公司研究/{公司}/` |
 | 图片附件 | `attachments/`,正文用 `![[文件名]]` 嵌入 |
+| 公众号原创文章(HTML 正文 + 预览页 + 图片) | `微信公众号写作/{日期-标题}/`,规则见该目录 `AGENTS.md` |
 
 检索靠 frontmatter + `bases/方法论总览.base`(嵌在 [[Home]]),不靠文件夹分类。Bases 视图自动更新,入库不用动它。
 
